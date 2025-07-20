@@ -2,6 +2,10 @@
 
 This project was developed as the final assignment for the **Big Data Analysis** course. It leverages **Apache Spark** and **Kafka** to process and analyze a dataset related to mental health and depression, with a focus on **students** as the target population.
 
+## Important Note
+
+This project is based on a dataset primarily about students from India, which was obtained from Kaggle.
+
 ## Project Objective
 
 The objective of this project is to preprocess and analyze large-scale data using distributed computing techniques in Apache Spark, with the aim of identifying key factors correlated with depression among students. Ultimately, the goal is to support early detection and intervention by providing data-driven insights that can serve as a tool for preventing or mitigating depression in academic environments.
