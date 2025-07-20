@@ -4,7 +4,7 @@ This project was developed as the final assignment for the **Big Data Analysis**
 
 ## Project Objective
 
-To preprocess and analyze large-scale data using distributed computing techniques in Spark, with the goal of identifying key factors that correlate with depression among students.
+The objective of this project is to preprocess and analyze large-scale data using distributed computing techniques in Apache Spark, with the aim of identifying key factors correlated with depression among students. Ultimately, the goal is to support early detection and intervention by providing data-driven insights that can serve as a tool for preventing or mitigating depression in academic environments.
 
 ## Dataset
 
