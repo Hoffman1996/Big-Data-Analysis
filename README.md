@@ -1,6 +1,6 @@
 # Student Depression Prediction Project
 
-This project was developed as the final assignment for the **Big Data Analysis** course. It leverages **Apache Spark** to process and analyze a dataset related to mental health and depression, with a focus on **students** as the target population.
+This project was developed as the final assignment for the **Big Data Analysis** course. It leverages **Apache Spark** and **Kafka** to process and analyze a dataset related to mental health and depression, with a focus on **students** as the target population.
 
 ## Project Objective
 
