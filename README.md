@@ -2,10 +2,6 @@
 
 This project was developed as the final assignment for the **Big Data Analysis** course. It leverages **Apache Spark** and **Kafka** to process and analyze a dataset related to mental health and depression, with a focus on **students** as the target population.
 
-## Important Note
-
-This project is based on a dataset primarily about students from India, which was obtained from Kaggle.
-
 ## Project Objective
 
 The objective of this project is to preprocess and analyze large-scale data using distributed computing techniques in Apache Spark, with the aim of identifying key factors correlated with depression among students. Ultimately, the goal is to support early detection and intervention by providing data-driven insights that can serve as a tool for preventing or mitigating depression in academic environments.
@@ -21,11 +17,9 @@ The objective of this project is to preprocess and analyze large-scale data usin
 
 ## Technologies Used
 
-- Apache Spark (PySpark)
+- PySpark (Apache Spark)
 - Python 3
-- Jupyter Notebook
 - Pandas (for minor local operations)
-- Matplotlib / Seaborn (if used)
 
 ## Key Steps
 
@@ -46,17 +40,15 @@ The objective of this project is to preprocess and analyze large-scale data usin
 
 6. **Exploratory Data Analysis (EDA)**  
    Visualize distributions, correlations, and trends.
-
-7. **Modeling (if included)**  
-   Apply machine learning models such as Logistic Regression or Decision Trees using Spark MLlib.
-
-## Results
-
-(Insert here a summary of key insights or performance metrics if any models were applied.)
+   
 
 ## Conclusion
 
-This project demonstrates how Apache Spark can be used for efficient processing of real-world mental health data. By narrowing the focus to students, it aims to reveal patterns that can support mental health interventions in academic settings.
+This project demonstrates how Apache Spark and Kafka can be used for efficient processing of real-world data in real-time. By narrowing the focus to students, it aims to reveal patterns that can support mental health interventions in academic settings.
+
+## Important Note
+
+This project is based on a dataset primarily about students from India, which was obtained from Kaggle.
 
 ## Authors
 
